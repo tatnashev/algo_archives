@@ -7,6 +7,8 @@
 Так выглядит главная страница сайта:
 ![главная страница сайта](images/acmp_main_page.png)
 
+Все данные, полученные после архивации, лежат [здесь](https://drive.google.com/drive/folders/19jXYv-HrM6gKSzZYRgYf8gNu2pGsmy8N?usp=sharing)
+
 ## Метаданные
 
 Пользуемся инструментом [`metawarc`](https://github.com/datacoon/metawarc).
